@@ -1,9 +1,6 @@
-tensorflow==2.15.0
-pandas 
-numpy 
-scikit-learn
-tensorboard
-matplotlib
 streamlit
-scikeras
+numpy
+pandas
+tensorflow==2.16.1  # Use a confirmed stable version
+scikit-learn
 nltk
