@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-tensorflow==2.16.1
+tensorflow
 scikit-learn
 nltk
