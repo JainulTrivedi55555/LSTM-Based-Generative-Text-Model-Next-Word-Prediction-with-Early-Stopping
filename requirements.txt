@@ -1,7 +1,8 @@
 streamlit>=1.32.0
 numpy
 pandas
-tensorflow==2.15.0
+tensorflow==2.20.0
 scikit-learn
 nltk
-protobuf==3.20.3
+protobuf==4.25.3
+ 
