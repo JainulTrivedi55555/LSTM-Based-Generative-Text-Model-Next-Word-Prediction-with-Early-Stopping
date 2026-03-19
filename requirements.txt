@@ -4,5 +4,4 @@ pandas
 tensorflow==2.20.0
 scikit-learn
 nltk
-protobuf==4.25.3
  
